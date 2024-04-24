@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\flavi\OneDrive - Etec Centro Paula Souza\Trabalhos2024\PAM\RoleFlix1\build\windows\x64\CMakeFiles\ffd152cdc783409c9e584db927d572b0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{925ABF0A-B54C-30D0-9D3A-3CCFB7511F3F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

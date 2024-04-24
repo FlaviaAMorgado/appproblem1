@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\flavi\OneDrive - Etec Centro Paula Souza\Trabalhos2024\PAM\RoleFlix1\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\flavi\OneDrive - Etec Centro Paula Souza\Trabalhos2024\PAM\RoleFlix1\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\flavi\OneDrive - Etec Centro Paula Souza\Trabalhos2024\PAM\RoleFlix1\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\flavi\OneDrive - Etec Centro Paula Souza\Trabalhos2024\PAM\RoleFlix1\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{925ABF0A-B54C-30D0-9D3A-3CCFB7511F3F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{587601A3-D16F-32ED-B75C-D2E1AD5BDE81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

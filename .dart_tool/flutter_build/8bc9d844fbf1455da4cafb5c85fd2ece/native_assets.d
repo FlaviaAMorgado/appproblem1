@@ -1,0 +1,1 @@
+ C:\\Users\\flavi\\OneDrive\ -\ Etec\ Centro\ Paula\ Souza\\Trabalhos2024\\PAM\\RoleFlix1\\.dart_tool\\flutter_build\\8bc9d844fbf1455da4cafb5c85fd2ece\\native_assets.yaml: 

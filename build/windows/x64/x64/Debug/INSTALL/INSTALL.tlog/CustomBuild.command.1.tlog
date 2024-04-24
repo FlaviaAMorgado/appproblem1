@@ -1,0 +1,10 @@
+^C:\USERS\FLAVI\ONEDRIVE - ETEC CENTRO PAULA SOUZA\TRABALHOS2024\PAM\ROLEFLIX1\BUILD\WINDOWS\X64\CMAKEFILES\FFD152CDC783409C9E584DB927D572B0\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
